@@ -3,17 +3,12 @@
 ### I am currently enrolled at Nashville Software School, taking the Full Stack Web Developer Program
 
 
-
-
-
-![](https://github.com/SAS7178/project-gifs/blob/main/public/Linkin%20in%20Banner.png)
-
            					 ✨ Check me out on LinkedIn: ✨
    					    ⚡Contact me on linkedIn or - 📫 Email⚡
 		
 
-						✨Stephen.A.SmithDev@gmail.com✨
-				           https://www.linkedin.com/in/-Stephen-A-Smith-/
+						✨surfermercer@gmail.com✨
+				           https://www.linkedin.com/in/seaborn-mercer-a40966253/
 
 - :star: After completing the first half of the course(front-end), I have become proficient with **Javascript** and **ReactJS**.
 - 🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
