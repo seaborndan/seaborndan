@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Seaborn!
 
 ## I am currently enrolled at Nashville Software School, taking the Full Stack Web Developer Program
-## After completing the first half of the course(front-end), I have become proficient with Javascript and ReactJS.
-## Currently, I am in the middle of learning the back-end stack, using C# and .NET
+After completing the first half of the course(front-end), I have become proficient with Javascript and ReactJS.
+Currently, I am in the middle of learning the back-end stack, using C# and .NET
 
 <!--
 **seaborndan/seaborndan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
