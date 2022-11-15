@@ -3,7 +3,7 @@
 ### I am currently enrolled at Nashville Software School, taking the Full Stack Web Developer Program
 
 
-           					✨ Check me out on LinkedIn: ✨
+           			              ✨ Check me out on LinkedIn: ✨
    					    ⚡Contact me on linkedIn or - 📫 Email⚡
 		
 
