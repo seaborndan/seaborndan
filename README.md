@@ -1,9 +1,9 @@
 ## Hi there 👋 my name is Seaborn!
 
 ### I am currently enrolled at Nashville Software School, taking the Full Stack Web Developer Program
-After completing the first half of the course(front-end), I have become proficient with **Javascript** and **ReactJS**.
 
-Currently, I am in the middle of learning the back-end stack, using **C#** and **.NET**
+
+
 
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Linkin%20in%20Banner.png)
@@ -15,6 +15,7 @@ Currently, I am in the middle of learning the back-end stack, using **C#** and *
 						✨Stephen.A.SmithDev@gmail.com✨
 				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
+- :star:After completing the first half of the course(front-end), I have become proficient with **Javascript** and **ReactJS**.
 - 🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
 - 🌱 Searching to find my way into my new career as a Developer contact me!
 
