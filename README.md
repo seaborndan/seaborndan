@@ -11,8 +11,8 @@
 				           https://www.linkedin.com/in/seaborn-mercer-a40966253/
 
 - :star: After completing the first half of the course(front-end), I have become proficient with **Javascript** and **ReactJS**.
-- 🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
-- 🌱 Searching to find my way into my new career as a Developer contact me!
+- 🔭 I’m currently working on Backend **C# SQL .NET** Frameworks builing fullstack applications using VS and VScode for clientside
+- 🌱 Searching for a Dev job to grow my skillset and kick ass at
 
 
 
