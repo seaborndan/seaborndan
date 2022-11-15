@@ -5,6 +5,7 @@ After completing the first half of the course(front-end), I have become proficie
 
 Currently, I am in the middle of learning the back-end stack, using **C#** and **.NET**
 
+![placeholder image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
 **seaborndan/seaborndan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
