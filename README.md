@@ -31,7 +31,7 @@
 </p>
 
 
-### Projects I want you to check out
+### Projects I want 'you' to check out
 [Ditched Dogs](https://github.com/seaborndan/ditched-dogs-website)
 
 
