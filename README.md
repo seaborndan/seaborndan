@@ -12,7 +12,7 @@
 
 - :star: After completing the first half of the course(front-end), I have become proficient with **Javascript** and **ReactJS**.
 - 🔭 I’m currently working on Backend **C# SQL .NET** Frameworks building fullstack applications using VS and VScode for clientside
-- 🌱 Searching for a Dev job to grow my skillset and kick ass at
+- 🌱 Searching for a Dev job to grow my skillset
 
 
 
