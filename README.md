@@ -33,6 +33,7 @@
 
 ### Projects I want 'you' to check out
 [Ditched Dogs](https://github.com/seaborndan/ditched-dogs-website)
+[EZ Calories](https://github.com/seaborndan/EZCalorie)
 
 
 ### Badges
