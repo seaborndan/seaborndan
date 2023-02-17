@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Seaborn!
 
-### I am currently enrolled at Nashville Software School, taking the Full Stack Web Developer Program
+### I am currently searching for my first position after finishing the Full Stack Web Developer Program at Nashville Software School
 
 
            			              ✨ Check me out on LinkedIn: ✨
